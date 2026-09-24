@@ -69,3 +69,29 @@
 ---
 
 参考動画：【目標を持つとダメになる】 https://www.youtube.com/watch?v=UBrtx5gN0HE
+
+---
+
+## 公開用メモ（本文には含めない）
+
+### 見出し画像（1280×670、横長）
+
+**プロンプト（英語）**
+
+> A lone small wooden boat on a vast calm ocean at dawn, seen from a high wide angle. No sail, no map, no destination in sight. Soft golden light breaks through low clouds and falls on the water just ahead of the boat. Muted indigo and warm amber palette, subtle Japanese ink-wash texture, generous negative space on the left third for a title. Quiet, contemplative, dignified mood. No people's faces, no text, no logos. Aspect ratio 1280x670.
+
+**狙い**：本文の「答えのない大海原への船出」と「来るものを受ける」を一枚にした。左の3分の1を空けてあるので、タイトル文字を載せられる。実在の人物は描かない。
+
+**タイトル文字を載せる場合**
+- 主：目標を捨てた経営者は、何を見ていたのか
+- 副：42年間、売上目標ゼロ
+
+### ハッシュタグ
+
+`#目標設定` `#生き方` `#執行草舟` `#葉隠` `#武士道` `#キャリア` `#経営` `#自己成長`
+
+先頭の3つは必ず付ける。`#執行草舟` は話者名を確認してから付ける。
+
+### SNS告知文（X・140字以内）
+
+> 42年間、売上目標を一度も立てなかった経営者がいる。理由は「目標は予定外のものを締め出すから」。ただし彼は目標を捨てたわけではない。たった一つだけ持っていた目標とは何か。動画をもとにnoteに書いた。
